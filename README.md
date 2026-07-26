@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Shuba
 
-## 🌌 Generative AI Explorer
 
-## 🤖 Agentic AI Explorer
+Generative AI and Agentic AI Explorer
 
+
+Learning.
+Experimenting.
+Vibe Coding.
